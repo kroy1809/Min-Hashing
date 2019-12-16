@@ -17,10 +17,10 @@ $ python main.py
 ## Output
 
 For each k-value, the following output has been generated. Samples have been listed below:
-    a. Baseline efficiency
-    b. Min Hashing efficiency
-    c. Time elapsed for signature generation
-    d. Mean Squared error
+- Baseline efficiency
+- Min Hashing efficiency
+- Time elapsed for signature generation
+- Mean Squared error
 
 ### Sample output for k = 16:
 
@@ -35,4 +35,5 @@ Mean Squared Error:  4.934755947367183e-06
 
 ## Acknowledgements
 The dataset was originally used in the following paper:
+
 [1] From Group to Individual Labels using Deep Features", Kotzias et al., SIGKDD 2015
