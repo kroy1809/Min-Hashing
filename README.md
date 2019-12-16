@@ -24,13 +24,12 @@ For each k-value, the following output has been generated. Samples have been lis
 
 ### Sample output for k = 16:
 
-Generating Shingles ...
-Baseline comparisons ...
-Signature generation ...
-MinHash comparisons ...
 Efficiency for baseline:  259.39309334754944
+
 Efficiency for MinHashing:  42.278581857681274
+
 Time taken to generate signatures:  6.789660215377808
+
 Mean Squared Error:  4.934755947367183e-06
 
 ## Acknowledgements
