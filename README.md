@@ -4,17 +4,17 @@ This python script was created for pre-processing and pairwise comparison (Exact
 - IMDB
 - Yelp
 
-# Folder contents
+## Folder contents
 - FeatureVector_creation.py
 - main.py
 
-# Implementation
+## Implementation
 - Implemented in python 3.7
 - The feature vector for the dataset along with the min hashing computation was creaeted from scratch
 - Run code as: 
 $ python main.py
 
-# Output
+## Output
 
 For each k-value, the following output has been generated. Samples have been listed below:
     a. Baseline efficiency
@@ -22,7 +22,7 @@ For each k-value, the following output has been generated. Samples have been lis
     c. Time elapsed for signature generation
     d. Mean Squared error
 
-## Sample output for k = 16:
+### Sample output for k = 16:
 
 Generating Shingles ...
 Baseline comparisons ...
@@ -33,6 +33,6 @@ Efficiency for MinHashing:  42.278581857681274
 Time taken to generate signatures:  6.789660215377808
 Mean Squared Error:  4.934755947367183e-06
 
-# Acknowledgements
+## Acknowledgements
 The dataset was originally used in the following paper:
 [1] From Group to Individual Labels using Deep Features", Kotzias et al., SIGKDD 2015
