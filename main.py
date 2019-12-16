@@ -3,7 +3,7 @@ import time
 from sklearn.metrics import pairwise_distances
 import random
 
-from HW5_FeatureVector import GenerateFeatures
+from FeatureVector_creation import GenerateFeatures
 
 
 class MinHashing:
